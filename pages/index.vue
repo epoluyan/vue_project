@@ -1,18 +1,20 @@
 <template>
   <div class="header">
     <Header />  
-    <ListCards />
+    <Section />
   </div>
 </template>
 
 <script>
 import Header from '~/components/Header.vue'
-import ListCards from '~/components/ListCards.vue'
+import Section from '~/components/Section.vue'
+//import ListCards from '~/components/ListCards.vue'
 
 export default {
   components: {
     Header,
-    ListCards
+    Section,
+    //ListCards
   }
 }
 </script>

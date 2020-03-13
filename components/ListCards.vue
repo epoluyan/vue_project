@@ -23,8 +23,56 @@ export default {
                     title: 'Семейные проблемы',
                     image: '/images/family-problems.svg'
                 },
+                {
+                    title: 'Сложности на работе',
+                    image: '/images/work.svg'
+                },
+                {
+                    title: 'Проблемы в общении',
+                    image: '/images/sorrow.png'
+                },
+                {
+                    title: 'Сексуальные отношения',
+                    image: '/images/sex-problems.svg'
+                },
+                {
+                    title: 'ЛГБТ-отношения',
+                    image: '/images/lgb.svg'
+                },
+                {
+                    title: 'Проблемы из детства',
+                    image: '/images/childhood-problems.svg'
+                },
+                {
+                    title: 'Заниженная самооценка',
+                    image: '/images/self-esteem.svg'
+                },
+                {
+                    title: 'Личные границы',
+                    image: '/images/scope.svg'
+                },
+                {
+                    title: 'Чувство вины',
+                    image: '/images/other.png'
+                },
+                {
+                    title: 'Панические атаки',
+                    image: '/images/scare.png'
+                },
+                {
+                    title: 'Непонятные эмоции',
+                    image: '/images/panik.png'
+                },
+                {
+                    title: 'Серьёзные потери',
+                    image: '/images/frustration.svg'
+                },
+                {
+                    title: 'Другое',
+                    image: '/images/thoughts.svg'
+                },
             ],
         }  
     }
 }
-</script>>
+</script>
