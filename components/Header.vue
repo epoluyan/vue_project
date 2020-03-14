@@ -1,7 +1,7 @@
 <template>
   <div class="zg-header">
     <a href="https://zigmund.online">
-      <img src="../assets/images/logo.svg">
+      <img src="/images/logo.svg">
     </a>
   </div>
 </template>

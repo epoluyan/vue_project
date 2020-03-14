@@ -1,12 +1,13 @@
 <template>
-    <div class="sd">
-        <CardButton v-for="item in list"
+    <li class="zg-request-form__fields-list">
+        <CardButton v-for="(item, index) in list"
             v-model="selected"
+            :id="`problems-relations-${index}`"
             :key="item.title"
             :title="item.title"
             :image="item.image"
             />
-    </div>
+    </li>
 </template>
 <script>
 import CardButton from '~/components/CardButton.vue'
