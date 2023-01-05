@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "element-ui": "^2.4.11",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "stickyfilljs": "^2.1.0"
   },
   "devDependencies": {}
